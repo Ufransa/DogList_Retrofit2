@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogListApiRetrofit2</string>
+    <string name="type_your_favorite_dog_breed">Type your favorite dog breed</string>
+</resources>
